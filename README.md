@@ -1,5 +1,5 @@
 # LinuxKernelAttempt
-Class project to implement a basic linux kernel
+Class project to implement a simplified linux kernel
 
 
 § Checkpoint 1: 10/10

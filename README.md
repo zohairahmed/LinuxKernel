@@ -1,52 +1,52 @@
-# LinuxKernelAttempt
-Class project to implement a simplified linux kernel
+# UnixKernel
+Class project to implement a simplified Unix kernel
 
 
-ง Checkpoint 1: 10/10
+ยง Checkpoint 1: 10/10
 
-ง Checkpoint 2: 17/17
+ยง Checkpoint 2: 17/17
 
-ง Checkpoint 3: 15/16
+ยง Checkpoint 3: 15/16
 
-ง Checkpoint 4: 23/24
+ยง Checkpoint 4: 23/24
 
-ง Checkpoint 5: 18/25
+ยง Checkpoint 5: 18/25
 
-ง Questions During Final Demo: 10/10
+ยง Questions During Final Demo: 10/10
 
-ง Overall: 93/100
+ยง Overall: 93/100
 
 Topics Covered
 
-ง x86 assembly: review of basic constructs and structures, interfacing C to assembly, macros, stack frame and calling convention
+ยง x86 assembly: review of basic constructs and structures, interfacing C to assembly, macros, stack frame and calling convention
 
-ง system software basics: resource management, virtualization, protection, system call interface, asynchronous and synchronous interactions
+ยง system software basics: resource management, virtualization, protection, system call interface, asynchronous and synchronous interactions
 
-ง simple data structures: queues, heaps, stacks, lists
+ยง simple data structures: queues, heaps, stacks, lists
 
-ง interrupts and exceptions: controlling generation and handling, chaining, cleanup code, interactions with device functionality, interrupt controllers
+ยง interrupts and exceptions: controlling generation and handling, chaining, cleanup code, interactions with device functionality, interrupt controllers
 
-ง synchronization: primitives, memory semantics, mutual exclusion, semaphores, scheduling, race conditions
+ยง synchronization: primitives, memory semantics, mutual exclusion, semaphores, scheduling, race conditions
 
-ง virtualization of the CPU: processes and scheduling
+ยง virtualization of the CPU: processes and scheduling
 
-ง I/O interface: file descriptors, buffering, control operations
+ยง I/O interface: file descriptors, buffering, control operations
 
-ง device programming: basic abstractions, character and block devices, device driver development process
+ยง device programming: basic abstractions, character and block devices, device driver development process
 
-ง user-level programming interfaces: for file and network I/O, relationship to kernel I/O abstractions
+ยง user-level programming interfaces: for file and network I/O, relationship to kernel I/O abstractions
 
-ง virtualization of memory: hardware support and software abstractions
+ยง virtualization of memory: hardware support and software abstractions
 
-ง signals: semantics, generation, and delivery
+ยง signals: semantics, generation, and delivery
 
-ง abstractions:file system abstractions and disk layout
+ยง abstractions:file system abstractions and disk layout
 
 ACADEMIC INTEGRITY
 
 Please review the University of Illinois Student Code before starting, particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure here.
 
-ง 1?402 Academic Integrity Infractions
+ยง 1?402 Academic Integrity Infractions
 
 (a). Cheating. No student shall use or attempt to use in any academic exercise materials, information, study aids, or electronic data that the student knows or should know is unauthorized. Instructors are strongly encouraged to make in advance a clear statement of their policies and procedures concerning the use of shared study aids, examination files, and related materials and forms of assistance. Such advance notification is especially important in the case of take-home examinations. During any examination, students should assume that external assistance (e.g., books, notes, calculators, and communications with others) is prohibited unless specifically authorized by the Instructor. A violation of this section includes but is not limited to:
 
